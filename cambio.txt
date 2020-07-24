@@ -1,0 +1,2 @@
+en ItemGenerator.h
+incluí #include<time.h> para solucionar linea 17 en la parte de "time"
