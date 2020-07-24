@@ -1,0 +1,3 @@
+"C:\Users\hp\Desktop\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Juego_bomberman___POO.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Juego_bomberman___POO.dir/objects.a @CMakeFiles\Juego_bomberman___POO.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Juego_bomberman___POO.dir/objects.a -Wl,--no-whole-archive  -o Juego_bomberman___POO.exe -Wl,--out-implib,libJuego_bomberman___POO.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Juego_bomberman___POO.dir\linklibs.rsp

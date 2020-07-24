@@ -1,0 +1,282 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/BombManager.cpp
+BombManager.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/BombManager.h
+Constants.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Constants.h
+FireManager.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/FireManager.h
+SFML/Graphics/Sprite.hpp
+-
+SFML/Graphics/RenderTarget.hpp
+-
+cassert
+-
+sstream
+-
+stdexcept
+-
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/BombManager.h
+SFML/Graphics/Drawable.hpp
+-
+SFML/Graphics/Texture.hpp
+-
+SFML/System/Time.hpp
+-
+list
+-
+map
+-
+TimeManager.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/TimeManager.h
+Constants.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Constants.h
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Constants.cpp
+Constants.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Constants.h
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Constants.h
+SFML/System/Time.hpp
+-
+array
+-
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/ExplodingBrickManager.cpp
+ExplodingBrickManager.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/ExplodingBrickManager.h
+Constants.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Constants.h
+SFML/Graphics/Sprite.hpp
+-
+SFML/Graphics/RenderTarget.hpp
+-
+stdexcept
+-
+sstream
+-
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/ExplodingBrickManager.h
+SFML/Graphics/Drawable.hpp
+-
+SFML/Graphics/Texture.hpp
+-
+SFML/System/Time.hpp
+-
+list
+-
+TimeManager.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/TimeManager.h
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Fire.cpp
+Fire.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Fire.h
+Constants.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Constants.h
+TimeManager.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/TimeManager.h
+Map.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Map.h
+SFML/Graphics/Sprite.hpp
+-
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Fire.h
+SFML/Graphics/Drawable.hpp
+-
+SFML/Graphics/Texture.hpp
+-
+SFML/System/Time.hpp
+-
+array
+-
+TimeManager.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/TimeManager.h
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/FireManager.cpp
+FireManager.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/FireManager.h
+Constants.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Constants.h
+Map.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Map.h
+SFML/Graphics/Sprite.hpp
+-
+stdexcept
+-
+sstream
+-
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/FireManager.h
+SFML/Graphics/Drawable.hpp
+-
+SFML/Graphics/Texture.hpp
+-
+SFML/Graphics/RenderTexture.hpp
+-
+SFML/System/Time.hpp
+-
+list
+-
+TimeManager.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/TimeManager.h
+Fire.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Fire.h
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/ItemGenerator.cpp
+ItemGenerator.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/ItemGenerator.h
+iostream
+-
+cstdlib
+-
+time.h
+-
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/ItemGenerator.h
+vector
+-
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Map.cpp
+Map.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Map.h
+Constants.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Constants.h
+ItemGenerator.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/ItemGenerator.h
+stdexcept
+-
+cassert
+-
+sstream
+-
+SFML/Graphics/Image.hpp
+-
+SFML/Graphics/Sprite.hpp
+-
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Map.h
+SFML/Graphics/Drawable.hpp
+-
+SFML/Graphics/Image.hpp
+-
+SFML/Graphics/Texture.hpp
+-
+SFML/Graphics/RenderTexture.hpp
+-
+vector
+-
+memory
+-
+TimeManager.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/TimeManager.h
+ExplodingBrickManager.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/ExplodingBrickManager.h
+FireManager.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/FireManager.h
+BombManager.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/BombManager.h
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Player.cpp
+Player.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Player.h
+Constants.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Constants.h
+SFML/Graphics/Sprite.hpp
+-
+stdexcept
+-
+sstream
+-
+iostream
+-
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Player.h
+SFML/Graphics/Drawable.hpp
+-
+SFML/Graphics/Texture.hpp
+-
+SFML/Window/Event.hpp
+-
+array
+-
+string
+-
+TimeManager.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/TimeManager.h
+Map.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Map.h
+Constants.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Constants.h
+PlayerKeyBinding.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/PlayerKeyBinding.h
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/PlayerKeyBinding.cpp
+PlayerKeyBinding.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/PlayerKeyBinding.h
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/PlayerKeyBinding.h
+SFML/Window/Keyboard.hpp
+-
+Constants.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Constants.h
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/TimeManager.cpp
+TimeManager.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/TimeManager.h
+iostream
+-
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/TimeManager.h
+SFML/System/Clock.hpp
+-
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/World.cpp
+World.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/World.h
+Constants.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Constants.h
+SFML/Graphics/Image.hpp
+-
+cassert
+-
+stdexcept
+-
+sstream
+-
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/World.h
+SFML/Graphics/Drawable.hpp
+-
+SFML/Window/Event.hpp
+-
+string
+-
+memory
+-
+array
+-
+TimeManager.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/TimeManager.h
+Map.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Map.h
+Player.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/Player.h
+
+C:/Users/hp/CLionProjects/Juego bomberman - POO/main.cpp
+SFML/Graphics.hpp
+-
+stdexcept
+-
+iostream
+-
+World.h
+C:/Users/hp/CLionProjects/Juego bomberman - POO/World.h
+
